@@ -106,7 +106,7 @@ Learned practical skills like data preprocessing, model training, evaluation, an
 
 ![image alt](https://github.com/kumaradi9508/Employee-Salary-Prediction/blob/fcf3848fcd05e30fac340e7666215b05ccdbd1c3/Screenshot%202025-09-20%20095050.png)
 
-🔮 Future Scope
+## 🔮 Future Scope
 Expand dataset to include more features (Industry, Company size, etc.)
 
 Try other regression algorithms (e.g. XGBoost, Support Vector Regression, Ensemble methods)
