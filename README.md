@@ -62,10 +62,12 @@ Mean Absolute Error (MAE)
 
 R² Score
 
-📈 Results
+## 📈 Results
 Achieved an R² score of XX% (Update with your actual result)
 
 Learned practical skills like data preprocessing, model training, evaluation, and visualization.
+
+![image alt](https://github.com/kumaradi9508/Employee-Salary-Prediction/blob/fbb08213ff29db6a96e7a6e1468a9d2ac8318114/Screenshot%202025-09-20%20094941.png)
 
 🔮 Future Scope
 Add web interface using Flask or Streamlit
