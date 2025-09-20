@@ -73,6 +73,7 @@ Learned practical skills like data preprocessing, model training, evaluation, an
 
 ![image alt](https://github.com/kumaradi9508/Employee-Salary-Prediction/blob/17311054cccc1e2a8857906b07a277cafe9b5e0d/Screenshot%202025-09-20%20095023.png)
 
+![image alt](https://github.com/kumaradi9508/Employee-Salary-Prediction/blob/fcf3848fcd05e30fac340e7666215b05ccdbd1c3/Screenshot%202025-09-20%20095050.png)
 
 🔮 Future Scope
 Add web interface using Flask or Streamlit
