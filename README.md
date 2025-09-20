@@ -10,35 +10,39 @@ The objective of this project is to build a predictive model that estimates empl
 
 ---
 
-## 🧑‍💻 Developed By
+🧭 Project Objective
 
-- **👨‍💻 Name:** Aditya Kumar  
-- **🎓 College:** Lovely Professional University  
-- **🏢 Internship:** IBM SkillsBuild 6-Week AI/ML Internship  
-- **🗓️ Duration:** 6 Weeks  
-- **🔧 Role:** Full project developed independently  
-- **🎯 Goal:** Strengthen real-world ML skills and prepare for a Data Analyst career
+  - To build a predictive model that estimates employee salaries from features like:
 
----
+  - Years of experience
 
-## 🗂️ Features Used
+  - Education level
 
-- Years of Experience  
-- Education Level  
-- Job Title  
-- Location  
-- Industry (if available)
+  - Job title
+
+  - Location
+
+  - Industry (if available)
+
+This helps in making data‐driven decisions in HR, compensation planning, etc.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Python  
-- Jupyter Notebook  
-- Pandas  
-- NumPy  
-- Matplotlib / Seaborn  
-- Scikit-learn  
+- Python
+
+- Jupyter Notebook
+
+- Pandas, NumPy
+
+- Matplotlib, Seaborn (for data visualization)
+
+- Scikit-learn
+
+- LightGBM (as the primary regression model)
+
+- Streamlit (for building the interactive app)
 
 ---
 
@@ -62,7 +66,34 @@ Mean Absolute Error (MAE)
 
 R² Score
 
+📊 Methodology
+
+  1. Data collection / dataset preparation
+
+  2. Data cleaning and preprocessing
+
+  -  Handling missing values
+
+  - Encoding categorical features
+
+  - Feature scaling (if needed)
+
+ 3. Exploratory Data Analysis (EDA)
+
+ 4. Model selection & training
+
+ - Tested models: LightGBM (main), possibly others
+
+ 5. Model evaluation using metrics such as:
+
+  - MAE (Mean Absolute Error)
+
+  - R² Score
+
+ 6. Deployment via a simple web app using Streamlit
+
 ## 📈 Results
+
 Achieved an R² score of XX% (Update with your actual result)
 
 Learned practical skills like data preprocessing, model training, evaluation, and visualization.
@@ -76,19 +107,29 @@ Learned practical skills like data preprocessing, model training, evaluation, an
 ![image alt](https://github.com/kumaradi9508/Employee-Salary-Prediction/blob/fcf3848fcd05e30fac340e7666215b05ccdbd1c3/Screenshot%202025-09-20%20095050.png)
 
 🔮 Future Scope
-Add web interface using Flask or Streamlit
+Expand dataset to include more features (Industry, Company size, etc.)
 
-Deploy as an interactive app
+Try other regression algorithms (e.g. XGBoost, Support Vector Regression, Ensemble methods)
 
-Explore advanced algorithms like XGBoost or SVR
+Hyperparameter tuning to improve performance
 
-Expand dataset and improve accuracy
+More robust feature engineering
+
+Deploy the app via cloud platform (Heroku, AWS, etc.)
+
+## 🧑‍💻 Developed By
+
+- **👨‍💻 Name:** Aditya Kumar  
+- **🎓 College:** Lovely Professional University  
+- **🏢 Internship:** IBM SkillsBuild 6-Week AI/ML Internship  
+- **🗓️ Duration:** 6 Weeks  
+- **🔧 Role:** Full project developed independently  
+- **🎯 Goal:** Strengthen real-world ML skills and prepare for a Data Analyst career
+
+---
 
 🏅 Acknowledgement
 This project was developed under the guidance and mentorship of the IBM SkillsBuild 6-Week AI-ML Internship Program. Special thanks to the IBM team for providing learning resources and a structured pathway.
-
-📜 License
-This project is licensed under the MIT License.
 
 📬 Contact
 GitHub: https://github.com/kumaradi950
@@ -97,7 +138,7 @@ LinkedIn: www.linkedin.com/in/aditya-kumar-459077322
 
 Email: adisatya9508@gmail.com 
 
-⭐ If you like this project, feel free to give it a star!
+If you like this project, feel free to ⭐ star the repo or suggest improvements via pull requests.
 
 
 
